@@ -1,0 +1,13 @@
+node_modules/
+data/reaction-messages.json
+\.idea/
+\.vscode/
+yarn.lock
+yarn-error.log
+package-lock.json
+env/
+.env
+dev.env
+.yarn/cache
+.config.json
+firebase.json
